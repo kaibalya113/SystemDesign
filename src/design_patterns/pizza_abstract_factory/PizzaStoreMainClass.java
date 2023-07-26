@@ -1,6 +1,6 @@
-package design_patterns.pizza_factory;
+package design_patterns.pizza_abstract_factory;
 
-public class PizzaMainClass {
+public class PizzaStoreMainClass {
     public static void main(String[] args){
         PizzaFactory pizzaFactory = new PizzaFactory();
         Pizza pizza = pizzaFactory.CreatePizza("PepperoniPizza");
