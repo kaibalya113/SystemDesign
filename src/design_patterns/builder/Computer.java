@@ -44,17 +44,17 @@ public class Computer {
         private boolean isBluetooth;
 
         public ComputerBuilder(String ram, String hdd) {
-            this.Ram = "ram";
+            this.Ram = ram;
             this.Hdd = hdd;
         }
 
         public ComputerBuilder setGraphics(boolean graphics) {
-            this.isGraphics = graphics;
+            this.isGraphics = true;
             return this;
         }
 
         public ComputerBuilder setBluetooth(boolean bluetooth){
-            this.isBluetooth = true;
+            isBluetooth =  true;
             return this;
         }
         public Computer build(){

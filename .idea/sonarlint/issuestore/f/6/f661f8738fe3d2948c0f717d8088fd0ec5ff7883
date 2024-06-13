@@ -1,0 +1,19 @@
+
+›	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÓèÌ\8ù»Å’2J$cc348e0b-acec-49f5-947d-454bdc4053b5
+ª
+java:S4165"bRemove this useless assignment; "name" already holds the assigned value along all execution paths.(É´“ıÿÿÿÿ8ı»Å’2J$31162e49-2d3b-44a0-bec2-0e9edad4d4cb
+¨
+java:S4165"`Remove this useless assignment; "id" already holds the assigned value along all execution paths.(£©èÚşÿÿÿÿ8ı»Å’2J$9da031c1-f3ff-4d83-aa40-d4dbfb293c3e
+w
+java:S1656"/Remove or correct this useless self-assignment.(£©èÚşÿÿÿÿ8¼Å’2J$54f18bb1-3c3a-4a50-8bfb-dbb691069066
+w
+java:S1656"/Remove or correct this useless self-assignment.(É´“ıÿÿÿÿ8¼Å’2J$9a00283a-d3e6-4775-9355-59150f8c376d
+t
+java:S1068
+",Remove this unused "location" private field.(¹¿É‚ÿÿÿÿÿ8¼Å’2J$7f7b2f7c-b68b-459b-8519-e07b8fdc58ef
+k
+java:S1068"(Remove this unused "cars" private field.(–÷»¢8¼Å’2J$7738b744-3899-488e-9f09-e287d63704be
+n
+java:S1068"&Remove this unused "id" private field.(ôç¼Óşÿÿÿÿ8¼Å’2J$a9c21230-b7c3-47b7-8a62-e3026365dd55
+k
+java:S1068"(Remove this unused "name" private field.(Ë¥¼8¼Å’2J$9618070e-b24a-4c0e-b066-bde407455fad

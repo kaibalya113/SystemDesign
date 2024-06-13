@@ -1,0 +1,11 @@
+
+›	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÓèÌ\8Ø£Ì“2J$c3e80e5a-893e-4b13-96ae-b003d63a6bda
+„
+java:S18545"<Remove this useless assignment to local variable "showRoom".(Ù°§ÿøÿÿÿÿ8ç£Ì“2J$6bc0d224-e537-40bd-9a16-2f40940d93af
+~	java:S125"<This block of commented-out lines of code should be removed.(ŒÔÉÛ8ê£Ì“2J$1eea6b65-7b42-4099-bff3-08f023cc59c9
+r	java:S106)"+Replace this use of System.out by a logger.(ÏãÖÌúÿÿÿÿ8ë£Ì“2J$ff6cad06-7d47-49b1-a501-317e5d2c08f0
+u
+java:S14815"-Remove this unused "showRoom" local variable.(Ù°§ÿøÿÿÿÿ8í£Ì“2J$0d552b6c-894f-4726-894b-31b0e0b0cc71
+ƒ	java:S1256"<This block of commented-out lines of code should be removed.(ÑŒ±Ùüÿÿÿÿ8í£Ì“2J$13ea20db-cd1e-4208-8195-75d7cbacda54
+r	java:S106<"+Replace this use of System.out by a logger.(Õì·³ÿÿÿÿÿ8í£Ì“2J$b273c16c-de9e-4ff9-acd0-dca9e2827f3a
+r	java:S106B"+Replace this use of System.out by a logger.(…îæ‰üÿÿÿÿ8î£Ì“2J$68abe616-8e16-46e8-b1af-c8a4c52a3915

@@ -1,2 +1,6 @@
 
 t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(–Ù‹ùÿÿÿÿ
+V
+java:S1128"9Remove this unused import 'design_patterns.factory.Bike'.(ÁÌô–8±áÒø1
+U
+java:S1128"8Remove this unused import 'design_patterns.factory.Car'.(òôÇÄ8²áÒø1

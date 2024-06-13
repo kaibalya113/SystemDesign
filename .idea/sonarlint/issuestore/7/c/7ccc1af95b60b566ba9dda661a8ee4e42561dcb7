@@ -1,0 +1,7 @@
+
+•
+java:S2975"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(™”” 8Ä¸˜Ýø1J$a2c25d7b-769d-4d26-a11d-fbc3a9035e27
+Š
+java:S1182"HUse super.clone() to create and seed the cloned instance to be returned.(™”” 8Ç¸˜Ýø1J$f4f39929-6e39-4c9c-a08f-166a135e45e4
+K
+java:S1128".Remove this unused import 'java.util.Objects'.(¼¸õ›8¶¸šÝø1

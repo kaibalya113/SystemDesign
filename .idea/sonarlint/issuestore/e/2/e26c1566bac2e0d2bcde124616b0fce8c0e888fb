@@ -1,0 +1,26 @@
+
+J
+java:S1066R"/Merge this if statement with the enclosing one.(Ã¢—šüÿÿÿÿ
+f	java:S117'"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™‘œ 
+f	java:S117'"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™‘œ 
+
+java:S1488("dImmediately return this expression instead of assigning it to the temporary variable "parkingFloor".(Ÿ„Íðÿÿÿÿÿ
+¢
+java:S2681]"†This line will not be executed conditionally; only the first line of this 2-line block will be. The rest will execute unconditionally.(øüãúûÿÿÿÿ
+q
+java:S3655]"VCall "parkingSpot.isPresent()" or "!parkingSpot.isEmpty()" before accessing the value.(øüãúûÿÿÿÿ
+s	java:S116"^Rename this field "ParkingCountForCars" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÆÞ¼ö
+y	java:S116"_Rename this field "ParkingCountForBikes" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€ÔÄËûÿÿÿÿ
+S	java:S106@"9Replace this use of System.out or System.err by a logger.(ý·©·þÿÿÿÿ
+Q	java:S125?"<This block of commented-out lines of code should be removed.(è ÛÙ
+B
+java:S1481D"'Remove this unused "pf" local variable.(¤½ÎÎúÿÿÿÿ
+C	java:S108D")Either remove or fill this block of code.(¤½ÎÎúÿÿÿÿ
+H
+java:S1128"-Remove this unused import 'java.util.Random'.(èøÉ›ùÿÿÿÿ
+A
+java:S1068"+Remove this unused "floorNo" private field.(‡“¡³
+M
+java:S1068"7Remove this unused "ParkingCountForCars" private field.(ÆÞ¼ö
+S
+java:S1068"8Remove this unused "ParkingCountForBikes" private field.(€ÔÄËûÿÿÿÿ

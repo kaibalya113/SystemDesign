@@ -1,0 +1,13 @@
+
+
+java:S1192"KDefine a constant instead of duplicating this literal "MH14KH1883" 6 times.(êÓ8Ç€ñ2J$c303cbd2-5823-4490-9fc2-668e2f898f1e
+
+java:S1192"IDefine a constant instead of duplicating this literal "Fursungi" 5 times.(åë¹À8È€ñ2J$bcb9aa40-fbed-46c0-81b3-7a1ef3f51069
+Œ
+java:S1192"HDefine a constant instead of duplicating this literal "50000KM" 6 times.(êÓ8È€ñ2J$f680bbee-982c-4a8e-957e-af0106690cda
+
+java:S1192"KDefine a constant instead of duplicating this literal "Maharastra" 6 times.(åë¹À8È€ñ2J$bd146f5a-6cab-4e3b-9dcc-616d2ed98bc4
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÕÛÀøÿÿÿÿ8Ë€ñ2J$f31f408f-faa3-42f4-8d41-71e99187c549
+^	java:S107"BConstructor has 10 parameters, which is greater than 7 authorized.(Ğ€‘8áµŸ“2
+€
+java:S1854"<Remove this useless assignment to local variable "carsList".(ùÚÈñ8â€ñ2J$66d86959-3459-4b0d-b415-7fc71cac5ae3

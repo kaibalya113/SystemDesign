@@ -1,0 +1,30 @@
+
+¡
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¹´„™úÿÿÿÿ8Öš·àø1J$897debaf-0a8d-46e0-b436-2eeff719abbf
+\
+java:S1700
+"Rename field "board"(×½±°ûÿÿÿÿ8×š·àø1J$9195f7b9-9883-4b6c-b255-8097d31b0ff1
+g
+java:S1640"Convert this Map to an EnumMap.(¹´„™úÿÿÿÿ8Ùš·àø1J$0d5841c2-ec05-44ad-ba85-e316a0b2db08
+?
+java:S2189<""Add an end condition to this loop.(âéÀ8À¬ãÿ1
+T
+java:S2589<"7Remove this expression which always evaluates to "true"(âéÀ8Á¬ãÿ1
+m	java:S106"+Replace this use of System.out by a logger.(ß†µÐ8ïš·àø1J$540de4f5-785a-4ca7-bfe5-84077265db6b
+r	java:S106"+Replace this use of System.out by a logger.(½¹Ûýÿÿÿÿ8ïš·àø1J$2253fe68-c6f5-46ca-9fbb-c4fd888df96c
+r	java:S106"+Replace this use of System.out by a logger.(î–Öðüÿÿÿÿ8ðš·àø1J$ad0766e2-0fb2-4292-ab48-9c9c4e4e3b40
+€
+java:S1854."=Remove this useless assignment to local variable "gameBoard".(Ùê¡³8óš·àø1J$54925c3a-a416-4ecd-a277-18b6f2da44dd
+q
+java:S1481.".Remove this unused "gameBoard" local variable.(Ùê¡³8óš·àø1J$e76a04d5-2f3a-4d3c-9076-1a458ff5c6ad
+m
+java:S1481/"*Remove this unused "count" local variable.(æÕ¿¼8ôš·àø1J$9b2624c6-6c88-4cc6-9044-14ac4b6e2ac0
+m	java:S1062"+Replace this use of System.out by a logger.(ÂÖ³¢8ôš·àø1J$5e3f6312-2281-4a62-8d13-c861c350ed37
+r	java:S1065"+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ8ôš·àø1J$dba3a730-a36f-43a7-b5aa-0b17d785d44f
+„
+java:S1854:"<Remove this useless assignment to local variable "listUser".(˜ÆÃ±ýÿÿÿÿ8ÛÁ¸àø1J$a9c33766-2da8-4c9c-be59-e8e7ed6a8071
+u
+java:S1481:"-Remove this unused "listUser" local variable.(˜ÆÃ±ýÿÿÿÿ8ÛÁ¸àø1J$7c29eb4c-fb2c-49c1-8751-1f68aa256c81
+k	java:S108<")Either remove or fill this block of code.(âéÀ8ÜÁ¸àø1J$212459ad-c262-46bd-8934-c93f0277f6ec
+Z
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8á¬ãÿ1
